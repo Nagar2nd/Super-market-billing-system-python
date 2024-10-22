@@ -42,34 +42,9 @@ The **Supermarket Billing System** is a Python-based application designed to str
 5. **Multiple Transactions:**
    - The program can handle consecutive customers in a single run, asking after each receipt whether there is another customer in the queue.
 
-## Example output : 
-    ------------------------------------------------------------
-------------------------------------------------------------
-                    GROCERY STORE XYZ
-           Date: 22-10-2024   Time: 14:30:45
-       123 Rose street, New Delhi, Phone : 123-456-789
-------------------------------------------------------------
-------------------------------------------------------------
-Customer name    :    Shivani Nagar
-Phone no         :    9876543210
-------------------------------------------------------------
-Item             Price (₹)   Qty  
-Shampoo           100        x   2.0  
-Toothpaste         50        x   1.0  
-Detergent         150        x   3.0  
-------------------------------------------------------------
-Total bill         :  ₹650.0
-Discount Applied   :  7 % OFF
-Final bill         :  ₹604.5
-------------------------------------------------------------
-
-                Thank you for Shopping with us :)
-
-------------------------------------------------------------
-------------------------------------------------------------
-
-
 ## Technologies Used
 
 - **Python 3.x** for the core logic and implementation.
 - **Datetime Module** for generating the current date and time on receipts.
+
+  
